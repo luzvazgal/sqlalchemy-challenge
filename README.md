@@ -8,7 +8,7 @@
 
 * climate_starter.ipynb: Jupiter notebook file which holds all code
 * README.md: this file
-* ap.py: contains new model to create schema in case there are no resource database.
+* model.py: contains new model to create schema in case there are no resource database.
 * Resources: folder with source files to do analysis
 
 
